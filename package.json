@@ -1,0 +1,16 @@
+{
+  "name": "vite-recipe-book",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vue": "^3.0.0-beta.10",
+    "vue-router": "^4.0.0-alpha.11"
+  },
+  "devDependencies": {
+    "vite": "^0.15.0",
+    "@vue/compiler-sfc": "^3.0.0-beta.10"
+  }
+}
